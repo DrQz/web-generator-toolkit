@@ -1,5 +1,12 @@
 #! /usr/bin/perl
 # kstest.pl
+#
+# Kolmogorov-Smirnov test
+# https://en.wikipedia.org/wiki/Kolmogorov–Smirnov_test
+#
+# See Appendix D in Perl::PDQ book (2004) or Chap. 2 in 2nd edn. (2011)
+# http://www.perfdynamics.com/iBook/ppa_new.html
+
 
 @data = (11.72, 10.43, 8.02, 7.58, 1.43, 4.12);
 @sorted = sort { $a <=> $b } @data;
