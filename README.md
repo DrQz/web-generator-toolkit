@@ -24,8 +24,7 @@ and others.
 ## References
 
 1. J. F. Brady and N. J. Gunther, "How to Emulate Web Traffic Using Standard Load Testing Tools," 
-Proceedings of CMG imPACt 2016, La Jolla, California. Available online at [arXiv](http://arxiv.org/abs/1607.05356).
-(2016) 
+Proceedings of CMG imPACt 2016, La Jolla, California. Available [online](http://arxiv.org/abs/1607.05356).
 
 1. N. J. Gunther, [*Analyzing Computer System Performance with Perl::PDQ*](http://www.perfdynamics.com/iBook/ppa_new.html), Springerr-Verlag (2011)
 
