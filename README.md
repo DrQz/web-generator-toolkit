@@ -24,11 +24,17 @@ and others.
 ## References
 
 1. J. F. Brady and N. J. Gunther, "How to Emulate Web Traffic Using Standard Load Testing Tools," 
-Proceedings of CMG imPACt 2016, La Jolla, California. [Available online](http://arxiv.org/abs/1607.05356).
+Proceedings of CMG imPACt 2016, La Jolla, California. [Available online](http://arxiv.org/abs/1607.05356)
+
+1. J. F. Brady,  "When Load Testing Large User Population Web Applications: The Devil is in The (Virtual) User Details," 
+CMG Proceedings 2012, Las Vegas, Nevada.
+
+1. D. M. Ciemiewicz, "What Do You Mean? Revisiting Statistics for Web Response Time Measurements,"
+CMG Proceedings 2001, Anaheim, California.  [Available as PDF](http://www.perfdynamics.com/Classes/Materials/Ciemo-CMG2001.pdf) 
 
 1. N. J. Gunther, [*Analyzing Computer System Performance with Perl::PDQ*](http://www.perfdynamics.com/iBook/ppa_new.html), Springerr-Verlag (2011)
 
 1. N. J. Gunther, [*Guerrilla Capacity Planning: A Tactical Approach to Planning for Highly Scalable Applications and Services*](http://www.perfdynamics.com/iBook/gcap.html), 
 Springer-Verlag (2007)
 
-1. [Guerrilla Training Classes](http://www.perfdynamics.com/Classes/schedule.html).
+1. [Guerrilla Training Classes](http://www.perfdynamics.com/Classes/schedule.html)
