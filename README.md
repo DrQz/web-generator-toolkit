@@ -16,8 +16,8 @@ and others.
 Perform the following steps:
 
 1. Create the environment variable `WEB_GEN_TOOLKIT` pointing to the local `bin` directory (Use `export` in Unix/Linux or `set` in Windows)
-1. `cd` to the local directory `demo`  and execute `% run_perf_jmeter_records_select.pl`
-1. `cd` into the subdirectory `select` and execute `% run_perf_arr_rt_jmeter_stats.pl`
+1. `cd` to the local directory `demo`  and execute the command `% run_perf_jmeter_records_select.pl`
+1. `cd` into the subdirectory `select` and execute the command `% run_perf_arr_rt_jmeter_stats.pl`
 1. More details are provided in [web-gen-toolkit_doc.pdf](https://github.com/DrQz/web-generator-toolkit/blob/master/web-gen-toolkit_doc.pdf)
 
 <b>Note:</b> Be sure that the `GD.pm` module is in your Perl installation.
