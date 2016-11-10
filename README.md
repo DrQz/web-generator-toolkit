@@ -26,7 +26,6 @@ More details are provided in [web-gen-toolkit_doc.pdf](https://github.com/DrQz/w
 
 
 
-
 ## References
 
 1. J. F. Brady and N. J. Gunther, "How to Emulate Web Traffic Using Standard Load Testing Tools," 
