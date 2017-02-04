@@ -32,7 +32,7 @@ More details are provided in [web-gen-toolkit_doc.pdf](https://github.com/DrQz/w
 Proceedings of CMG imPACt 2016, La Jolla, California. ([Updated paper](https://github.com/DrQz/web-generator-toolkit/blob/master/cmg16paper.pdf), [PPTX slides](https://github.com/DrQz/web-generator-toolkit/blob/master/CMG16slides.pptx))
 
 1. J. F. Brady,  "When Load Testing Large User Population Web Applications: The Devil is in The (Virtual) User Details," 
-CMG Proceedings 2012, Las Vegas, Nevada. ([PDF](http://www.perfdynamics.com/Classes/Materials/Ciemo-CMG2001.pdf)) 
+CMG Proceedings 2012, Las Vegas, Nevada. ([PDF](http://www.perfdynamics.com/Classes/Materials/Brady-CMG12.pdf)) 
 
 1. J. F. Brady,  "Traffic Generation Concepts: Random Arrivals," Unpublished notes, 2004.  ([PDF](http://www.perfdynamics.com/Classes/Materials/BradyTraffic.pdf))  
 
